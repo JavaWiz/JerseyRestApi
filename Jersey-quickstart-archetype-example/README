@@ -1,0 +1,5 @@
+In this example, we will create a jersey RESTful API web application using jersey-quickstart-webapp maven archetype.
+
+If we want to create a Servlet container deployable Jersey 2.26 web application, use
+mvn archetype:generate -DgroupId=com.javawiz -DartifactId=Jersey2.26 -DarchetypeGroupId=org.glassfish.jersey.archetypes -DarchetypeArtifactId=jersey-quickstart-webapp -DarchetypeVersion=2.26
+
